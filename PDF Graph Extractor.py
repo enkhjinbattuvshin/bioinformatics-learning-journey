@@ -1,3 +1,6 @@
+#Author:Enkhjin
+#Date: 6/12/2026
+
 #Paste this into your extract.py file, save it, and run it
 
 import fitz  # This is the PyMuPDF library
